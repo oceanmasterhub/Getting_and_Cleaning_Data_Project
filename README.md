@@ -1,8 +1,6 @@
----
-title: <span style="color:steelblue"> Getting and Cleaning Data </span>
-subtitle: <span style="color:lightblue"> Course Project - Version 1.0 (May, 2020) </span>
-output: html_document
----
+# <span style="color:steelblue"> Getting and Cleaning Data </span>
+
+## <span style="color:lightblue"> Course Project - Version 1.0 (May, 2020) </span>
 
 ***
 ### <span style="color:orange"> README </span>
